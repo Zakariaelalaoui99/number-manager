@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>build/add.png</file>
+        <file>build/bin.png</file>
+        <file>build/pencil.png</file>
+        <file>../gears.png</file>
+    </qresource>
+</RCC>

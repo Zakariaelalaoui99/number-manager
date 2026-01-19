@@ -1,0 +1,10 @@
+debug/addnumberdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/numberslist.o
+debug/specialfunctiondialog.o
+debug/qrc_resources.o
+debug/moc_addnumberdialog.o
+debug/moc_mainwindow.o
+debug/moc_numberslist.o
+debug/moc_specialfunctiondialog.o

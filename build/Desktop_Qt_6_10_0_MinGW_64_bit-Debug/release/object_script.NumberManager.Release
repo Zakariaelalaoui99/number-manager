@@ -1,0 +1,10 @@
+release/addnumberdialog.o
+release/main.o
+release/mainwindow.o
+release/numberslist.o
+release/specialfunctiondialog.o
+release/qrc_resources.o
+release/moc_addnumberdialog.o
+release/moc_mainwindow.o
+release/moc_numberslist.o
+release/moc_specialfunctiondialog.o
