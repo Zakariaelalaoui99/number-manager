@@ -39,5 +39,4 @@ A dynamic Qt-based GUI application designed to manage numerical data. This proje
 3.  Run `qmake` and build the project.
 4.  Click the **Run** button (green arrow).
 
----
-Developed as part of the MMI/C++ GUI Assignment.
+
